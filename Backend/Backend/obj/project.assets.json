@@ -596,24 +596,37 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+>>>>>>> e20b8bc3fce2dfa4999326236408beb48ce3d6cc
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\KI1-NAM3\\PYTHON\\PROJECT PYTHON\\python-100-c-\\Backend\\Backend\\Backend.csproj",
       "projectName": "Backend",
       "projectPath": "D:\\KI1-NAM3\\PYTHON\\PROJECT PYTHON\\python-100-c-\\Backend\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
       "outputPath": "D:\\KI1-NAM3\\PYTHON\\PROJECT PYTHON\\python-100-c-\\Backend\\Backend\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\Admin\\Documents\\Project Python\\python-100-c-\\Backend\\Backend\\Backend.csproj",
+      "projectName": "Backend",
+      "projectPath": "c:\\Users\\Admin\\Documents\\Project Python\\python-100-c-\\Backend\\Backend\\Backend.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Admin\\Documents\\Project Python\\python-100-c-\\Backend\\Backend\\obj\\",
+>>>>>>> e20b8bc3fce2dfa4999326236408beb48ce3d6cc
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+=======
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> e20b8bc3fce2dfa4999326236408beb48ce3d6cc
       ],
       "originalTargetFrameworks": [
         "net10.0"
